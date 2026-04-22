@@ -1,0 +1,32 @@
+C:\Users\sykie\VSCode Xanh\RemoteMonitor_GUI\RemoteMonitor_GUI\bin\Debug\net10.0-windows\RemoteMonitor_GUI.exe
+C:\Users\sykie\VSCode Xanh\RemoteMonitor_GUI\RemoteMonitor_GUI\bin\Debug\net10.0-windows\RemoteMonitor_GUI.deps.json
+C:\Users\sykie\VSCode Xanh\RemoteMonitor_GUI\RemoteMonitor_GUI\bin\Debug\net10.0-windows\RemoteMonitor_GUI.runtimeconfig.json
+C:\Users\sykie\VSCode Xanh\RemoteMonitor_GUI\RemoteMonitor_GUI\bin\Debug\net10.0-windows\RemoteMonitor_GUI.dll
+C:\Users\sykie\VSCode Xanh\RemoteMonitor_GUI\RemoteMonitor_GUI\bin\Debug\net10.0-windows\RemoteMonitor_GUI.pdb
+C:\Users\sykie\VSCode Xanh\RemoteMonitor_GUI\RemoteMonitor_GUI\obj\Debug\net10.0-windows\RemoteMonitor_GUI.Form1.resources
+C:\Users\sykie\VSCode Xanh\RemoteMonitor_GUI\RemoteMonitor_GUI\obj\Debug\net10.0-windows\RemoteMonitor_GUI.csproj.GenerateResource.cache
+C:\Users\sykie\VSCode Xanh\RemoteMonitor_GUI\RemoteMonitor_GUI\obj\Debug\net10.0-windows\RemoteMonitor_GUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sykie\VSCode Xanh\RemoteMonitor_GUI\RemoteMonitor_GUI\obj\Debug\net10.0-windows\RemoteMonitor_GUI.AssemblyInfoInputs.cache
+C:\Users\sykie\VSCode Xanh\RemoteMonitor_GUI\RemoteMonitor_GUI\obj\Debug\net10.0-windows\RemoteMonitor_GUI.AssemblyInfo.cs
+C:\Users\sykie\VSCode Xanh\RemoteMonitor_GUI\RemoteMonitor_GUI\obj\Debug\net10.0-windows\RemoteMonitor_GUI.csproj.CoreCompileInputs.cache
+C:\Users\sykie\VSCode Xanh\RemoteMonitor_GUI\RemoteMonitor_GUI\obj\Debug\net10.0-windows\RemoteMonitor_GUI.dll
+C:\Users\sykie\VSCode Xanh\RemoteMonitor_GUI\RemoteMonitor_GUI\obj\Debug\net10.0-windows\refint\RemoteMonitor_GUI.dll
+C:\Users\sykie\VSCode Xanh\RemoteMonitor_GUI\RemoteMonitor_GUI\obj\Debug\net10.0-windows\RemoteMonitor_GUI.pdb
+C:\Users\sykie\VSCode Xanh\RemoteMonitor_GUI\RemoteMonitor_GUI\obj\Debug\net10.0-windows\RemoteMonitor_GUI.genruntimeconfig.cache
+C:\Users\sykie\VSCode Xanh\RemoteMonitor_GUI\RemoteMonitor_GUI\obj\Debug\net10.0-windows\ref\RemoteMonitor_GUI.dll
+C:\Users\sykie\Downloads\RemoteMonitor_GUI\RemoteMonitor_GUI\RemoteMonitor_GUI\bin\Debug\net10.0-windows\RemoteMonitor_GUI.exe
+C:\Users\sykie\Downloads\RemoteMonitor_GUI\RemoteMonitor_GUI\RemoteMonitor_GUI\bin\Debug\net10.0-windows\RemoteMonitor_GUI.deps.json
+C:\Users\sykie\Downloads\RemoteMonitor_GUI\RemoteMonitor_GUI\RemoteMonitor_GUI\bin\Debug\net10.0-windows\RemoteMonitor_GUI.runtimeconfig.json
+C:\Users\sykie\Downloads\RemoteMonitor_GUI\RemoteMonitor_GUI\RemoteMonitor_GUI\bin\Debug\net10.0-windows\RemoteMonitor_GUI.dll
+C:\Users\sykie\Downloads\RemoteMonitor_GUI\RemoteMonitor_GUI\RemoteMonitor_GUI\bin\Debug\net10.0-windows\RemoteMonitor_GUI.pdb
+C:\Users\sykie\Downloads\RemoteMonitor_GUI\RemoteMonitor_GUI\RemoteMonitor_GUI\obj\Debug\net10.0-windows\RemoteMonitor_GUI.Form1.resources
+C:\Users\sykie\Downloads\RemoteMonitor_GUI\RemoteMonitor_GUI\RemoteMonitor_GUI\obj\Debug\net10.0-windows\RemoteMonitor_GUI.csproj.GenerateResource.cache
+C:\Users\sykie\Downloads\RemoteMonitor_GUI\RemoteMonitor_GUI\RemoteMonitor_GUI\obj\Debug\net10.0-windows\RemoteMonitor_GUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sykie\Downloads\RemoteMonitor_GUI\RemoteMonitor_GUI\RemoteMonitor_GUI\obj\Debug\net10.0-windows\RemoteMonitor_GUI.AssemblyInfoInputs.cache
+C:\Users\sykie\Downloads\RemoteMonitor_GUI\RemoteMonitor_GUI\RemoteMonitor_GUI\obj\Debug\net10.0-windows\RemoteMonitor_GUI.AssemblyInfo.cs
+C:\Users\sykie\Downloads\RemoteMonitor_GUI\RemoteMonitor_GUI\RemoteMonitor_GUI\obj\Debug\net10.0-windows\RemoteMonitor_GUI.csproj.CoreCompileInputs.cache
+C:\Users\sykie\Downloads\RemoteMonitor_GUI\RemoteMonitor_GUI\RemoteMonitor_GUI\obj\Debug\net10.0-windows\RemoteMonitor_GUI.dll
+C:\Users\sykie\Downloads\RemoteMonitor_GUI\RemoteMonitor_GUI\RemoteMonitor_GUI\obj\Debug\net10.0-windows\refint\RemoteMonitor_GUI.dll
+C:\Users\sykie\Downloads\RemoteMonitor_GUI\RemoteMonitor_GUI\RemoteMonitor_GUI\obj\Debug\net10.0-windows\RemoteMonitor_GUI.pdb
+C:\Users\sykie\Downloads\RemoteMonitor_GUI\RemoteMonitor_GUI\RemoteMonitor_GUI\obj\Debug\net10.0-windows\RemoteMonitor_GUI.genruntimeconfig.cache
+C:\Users\sykie\Downloads\RemoteMonitor_GUI\RemoteMonitor_GUI\RemoteMonitor_GUI\obj\Debug\net10.0-windows\ref\RemoteMonitor_GUI.dll

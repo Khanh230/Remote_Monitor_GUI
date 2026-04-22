@@ -1,0 +1,171 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sykie\\Downloads\\RemoteMonitor_GUI\\RemoteMonitor_GUI\\RemoteMonitor_GUI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{91AAF5CE-DEAA-986D-A81C-219B49BFB415}|RemoteMonitor_GUI.csproj|C:\\Users\\sykie\\Downloads\\RemoteMonitor_GUI\\RemoteMonitor_GUI\\RemoteMonitor_GUI\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{91AAF5CE-DEAA-986D-A81C-219B49BFB415}|RemoteMonitor_GUI.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91AAF5CE-DEAA-986D-A81C-219B49BFB415}|RemoteMonitor_GUI.csproj|c:\\users\\sykie\\downloads\\remotemonitor_gui\\remotemonitor_gui\\remotemonitor_gui\\screencapture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91AAF5CE-DEAA-986D-A81C-219B49BFB415}|RemoteMonitor_GUI.csproj|solutionrelative:screencapture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91AAF5CE-DEAA-986D-A81C-219B49BFB415}|RemoteMonitor_GUI.csproj|c:\\users\\sykie\\downloads\\remotemonitor_gui\\remotemonitor_gui\\remotemonitor_gui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91AAF5CE-DEAA-986D-A81C-219B49BFB415}|RemoteMonitor_GUI.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91AAF5CE-DEAA-986D-A81C-219B49BFB415}|RemoteMonitor_GUI.csproj|c:\\users\\sykie\\downloads\\remotemonitor_gui\\remotemonitor_gui\\remotemonitor_gui\\clientmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91AAF5CE-DEAA-986D-A81C-219B49BFB415}|RemoteMonitor_GUI.csproj|solutionrelative:clientmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91AAF5CE-DEAA-986D-A81C-219B49BFB415}|RemoteMonitor_GUI.csproj|c:\\users\\sykie\\downloads\\remotemonitor_gui\\remotemonitor_gui\\remotemonitor_gui\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91AAF5CE-DEAA-986D-A81C-219B49BFB415}|RemoteMonitor_GUI.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91AAF5CE-DEAA-986D-A81C-219B49BFB415}|RemoteMonitor_GUI.csproj|c:\\users\\sykie\\downloads\\remotemonitor_gui\\remotemonitor_gui\\remotemonitor_gui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91AAF5CE-DEAA-986D-A81C-219B49BFB415}|RemoteMonitor_GUI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91AAF5CE-DEAA-986D-A81C-219B49BFB415}|RemoteMonitor_GUI.csproj|c:\\users\\sykie\\downloads\\remotemonitor_gui\\remotemonitor_gui\\remotemonitor_gui\\servermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91AAF5CE-DEAA-986D-A81C-219B49BFB415}|RemoteMonitor_GUI.csproj|solutionrelative:servermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91AAF5CE-DEAA-986D-A81C-219B49BFB415}|RemoteMonitor_GUI.csproj|c:\\users\\sykie\\downloads\\remotemonitor_gui\\remotemonitor_gui\\remotemonitor_gui\\packethelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91AAF5CE-DEAA-986D-A81C-219B49BFB415}|RemoteMonitor_GUI.csproj|solutionrelative:packethelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91AAF5CE-DEAA-986D-A81C-219B49BFB415}|RemoteMonitor_GUI.csproj|c:\\users\\sykie\\downloads\\remotemonitor_gui\\remotemonitor_gui\\remotemonitor_gui\\packet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91AAF5CE-DEAA-986D-A81C-219B49BFB415}|RemoteMonitor_GUI.csproj|solutionrelative:packet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\sykie\\Downloads\\RemoteMonitor_GUI\\RemoteMonitor_GUI\\RemoteMonitor_GUI\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\sykie\\Downloads\\RemoteMonitor_GUI\\RemoteMonitor_GUI\\RemoteMonitor_GUI\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAEMBAAAAAAAAAAAQwE0BAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T07:42:52.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\sykie\\Downloads\\RemoteMonitor_GUI\\RemoteMonitor_GUI\\RemoteMonitor_GUI\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\sykie\\Downloads\\RemoteMonitor_GUI\\RemoteMonitor_GUI\\RemoteMonitor_GUI\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T06:35:34.302Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ClientManager.cs",
+              "DocumentMoniker": "C:\\Users\\sykie\\Downloads\\RemoteMonitor_GUI\\RemoteMonitor_GUI\\RemoteMonitor_GUI\\ClientManager.cs",
+              "RelativeDocumentMoniker": "ClientManager.cs",
+              "ToolTip": "C:\\Users\\sykie\\Downloads\\RemoteMonitor_GUI\\RemoteMonitor_GUI\\RemoteMonitor_GUI\\ClientManager.cs",
+              "RelativeToolTip": "ClientManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T08:16:08.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\sykie\\Downloads\\RemoteMonitor_GUI\\RemoteMonitor_GUI\\RemoteMonitor_GUI\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\sykie\\Downloads\\RemoteMonitor_GUI\\RemoteMonitor_GUI\\RemoteMonitor_GUI\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T08:17:56.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ScreenCapture.cs",
+              "DocumentMoniker": "C:\\Users\\sykie\\Downloads\\RemoteMonitor_GUI\\RemoteMonitor_GUI\\RemoteMonitor_GUI\\ScreenCapture.cs",
+              "RelativeDocumentMoniker": "ScreenCapture.cs",
+              "ToolTip": "C:\\Users\\sykie\\Downloads\\RemoteMonitor_GUI\\RemoteMonitor_GUI\\RemoteMonitor_GUI\\ScreenCapture.cs",
+              "RelativeToolTip": "ScreenCapture.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T08:14:38.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sykie\\Downloads\\RemoteMonitor_GUI\\RemoteMonitor_GUI\\RemoteMonitor_GUI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\sykie\\Downloads\\RemoteMonitor_GUI\\RemoteMonitor_GUI\\RemoteMonitor_GUI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T08:37:47.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ServerManager.cs",
+              "DocumentMoniker": "C:\\Users\\sykie\\Downloads\\RemoteMonitor_GUI\\RemoteMonitor_GUI\\RemoteMonitor_GUI\\ServerManager.cs",
+              "RelativeDocumentMoniker": "ServerManager.cs",
+              "ToolTip": "C:\\Users\\sykie\\Downloads\\RemoteMonitor_GUI\\RemoteMonitor_GUI\\RemoteMonitor_GUI\\ServerManager.cs",
+              "RelativeToolTip": "ServerManager.cs",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAwwIwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T08:15:16.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PacketHelper.cs",
+              "DocumentMoniker": "C:\\Users\\sykie\\Downloads\\RemoteMonitor_GUI\\RemoteMonitor_GUI\\RemoteMonitor_GUI\\PacketHelper.cs",
+              "RelativeDocumentMoniker": "PacketHelper.cs",
+              "ToolTip": "C:\\Users\\sykie\\Downloads\\RemoteMonitor_GUI\\RemoteMonitor_GUI\\RemoteMonitor_GUI\\PacketHelper.cs",
+              "RelativeToolTip": "PacketHelper.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAwwCoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T08:13:58.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Packet.cs",
+              "DocumentMoniker": "C:\\Users\\sykie\\Downloads\\RemoteMonitor_GUI\\RemoteMonitor_GUI\\RemoteMonitor_GUI\\Packet.cs",
+              "RelativeDocumentMoniker": "Packet.cs",
+              "ToolTip": "C:\\Users\\sykie\\Downloads\\RemoteMonitor_GUI\\RemoteMonitor_GUI\\RemoteMonitor_GUI\\Packet.cs",
+              "RelativeToolTip": "Packet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T08:10:14.208Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
